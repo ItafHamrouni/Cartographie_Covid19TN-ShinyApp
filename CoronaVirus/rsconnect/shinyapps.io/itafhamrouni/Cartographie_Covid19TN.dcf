@@ -1,0 +1,12 @@
+name: Cartographie_Covid19TN
+title:
+username:
+account: itafhamrouni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2007129
+bundleId: 3601850
+url: https://itafhamrouni.shinyapps.io/Cartographie_Covid19TN/
+when: 1599473655.17947
+asMultiple: FALSE
+asStatic: FALSE

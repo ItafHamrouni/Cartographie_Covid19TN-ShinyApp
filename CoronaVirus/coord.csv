@@ -1,0 +1,25 @@
+Latitude,Longitude,Gouvernorat,cas,retabli,mort,quarantaine,lit,zone dangereuse,zone infectee
+36.86250, 10.19556,Ariana,336,134,8,,32,Contaminee,soukra
+36.73333,9.18333,Beja,27,17,0,,,Non Contaminee,
+36.75333,10.2222,Ben Arous,556,128,6,,37,Contaminee,Ben Arouss
+37.29,9.87,Bizerte,65,39,2,,8,Non Contaminee,
+33.88333,10.11667,Gabes,959,132,13,,,Contaminee,Alhamma
+34.42500,8.78417,Gafsa,81,65,1,,,Non Contaminee,
+36.50111,8.77944,Jendouba,92,14,1,,,Non Contaminee,
+35.68,10.10,Kairouan,186,60,2,,,Contaminee,Kairouan
+35.18,8.83,Kasserine,67,44,0,,,Non Contaminee,
+33.70194, 8.97361,Kebili,160,115,2,,4,Non Contaminee,
+36.19,8.71,Le kef,289,65,2,,,Contaminee,Le kef
+35.52,11.07,Mahdia,80,42,2,,14,Non Contaminee,
+36.80778,10.10111,Manouba,86,52,5,,7,Non Contaminee,
+33.35,10.49,Medenine,245,156,7,,,Contaminee,Djerba
+35.79,10.82,Monastir,222,65,2,,31,Contaminee,Monastir
+36.45000,10.73333,Nabeul,128,48,1,,12,Non Contaminee,
+34.74056,10.76028,Sfax,190,80,6,,30,Contaminee,Sfax
+35.04028,9.49361,Sidi Bouzid,67,22,2,,,Non Contaminee,
+36.08333,9.36667,Siliana,43,6,0,,,Non Contaminee,
+35.82556,10.64111,Sousse,431,126,14,,46,Contaminee,Sousse
+32.93333,10.45000,Tatouine,92,58,4,,,Non Contaminee,
+33.93, 8.13,Tozeur,14,12,0,,,Non Contaminee,
+36.80278,10.17972,Tunis,612,264,13,,108,Contaminee,Aouina & Marsa
+36.40,10.14,Zaghouan,13,8,0,,6,Non Contaminee,
